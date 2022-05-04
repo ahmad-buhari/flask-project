@@ -7,4 +7,5 @@ Testing front-end development with flask framework. Running deployment on local 
 ## Setup
 - Codebase python
 - Pip module - flask
+- poetry for python virtual env
 - Running on CentOS Stream
