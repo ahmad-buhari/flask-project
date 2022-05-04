@@ -2,7 +2,7 @@
 name = "flask_main"
 version = "0.1.0"
 description = ""
-authors = ["Ahmad Buhari <at.buhari@gmail.com>"]
+authors = ["Ahmad Buhari <ahmad@buhari.cloud>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
