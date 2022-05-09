@@ -25,6 +25,15 @@ With flask framework, `control flow` is dicated by incoming HTTP request. A view
 
 
 ### flask setup
-- Run `export FLASK_APP=main`
-- Run `FLASK_ENV = develpment`
+- Run `export FLASK_APP=code.py`
+- Run `export FLASK_ENV=development`
 - Run `flask run`
+
+
+| Topic | Description |
+| --- | --- |
+| [Setup](https://github.com/ahmad-buhari/flask-project#setup) | Pull Request |
+| `Git pull` | Download content |
+
+
+
