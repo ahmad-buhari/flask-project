@@ -8,7 +8,7 @@
 | :---: | :---: |
 | [Setup](https://github.com/ahmad-buhari/flask-project#setup) | Project setup details |
 | [Project Background](https://github.com/ahmad-buhari/flask-project#background) | Purpose of the project |
-| [Notes]((https://github.com/ahmad-buhari/flask-project#notes)) | Things I've learn throughtout the project |
+| [Notes](https://github.com/ahmad-buhari/flask-project#notes) | Things I've learn throughtout the project |
 | [Flask command line notes](https://github.com/ahmad-buhari/flask-project#flask-web-server-commands) |  Quick reference for flask cli |
 
 
