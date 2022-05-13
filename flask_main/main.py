@@ -9,3 +9,6 @@ def welcome():
     message = "Here's a message from the view, its so cool!"
     )
 
+@app.route("/report")
+def report():
+    return render_template("welcome.html", message = "New report page blabla" , sub = "New Category")
