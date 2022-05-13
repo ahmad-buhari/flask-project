@@ -23,7 +23,7 @@
 A web server's purpose is to serve content. In the past, websites were written in HTML and CSS manually per page. Now, a framework is utilized to build web pages from a template enabling faster development and minimizing overhead. In this project, I'll be using the Flask framework to build a website.
 
 ### Notes
-- New pages are serve with this constructor of @app.route("/"). The `(" ")` identifies a new page.
+- New pages are serve with this constructor of `@app.route("/name")`. The following function should match the name for clarity.
 - Set the run operation for the web script.
 - `control flow` is dicated by incoming HTTP request. 
 - A view function is only called if its URL is requested.
