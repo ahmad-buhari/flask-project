@@ -24,6 +24,15 @@ A web server's purpose is to serve content. In the past, websites were written i
 
 ### Notes
 - New pages are serve with this constructor of `@app.route("/name")`. The following function should match the name for clarity.
+    - Example:
+     ```
+    @app.route("/welcome!")
+
+    def welcome():
+        return "Welcome to my page!" 
+    ```
+
+
 - Set the run operation for the web script.
 - `control flow` is dicated by incoming HTTP request. 
 - A view function is only called if its URL is requested.
