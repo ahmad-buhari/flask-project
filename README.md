@@ -11,6 +11,7 @@
 | [Notes](https://github.com/ahmad-buhari/flask-project#notes) | Things I've learn throughtout the project |
 | [Flask command line notes](https://github.com/ahmad-buhari/flask-project#flask-web-server-commands) |  Quick reference for flask cli |
 
+#### [Web page deployment on Replit](https://replit.com/@AhmadBuhari/flask) :rocket:
 
 ## Setup
 - Codebase python
